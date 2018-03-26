@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+f3"], "command": "find_next" },
+    { "keys": ["f3"], "command": "find_under" }
+]
