@@ -1,0 +1,8 @@
+{
+	"enable_auto_align": true,
+	"format_on_save": false,
+	"option": "value",
+	"php_bin": "C:\\Program Files\\php-7.1.18-nts-Win32-VC14-x64\\php.exe",
+	"psr2": true,
+	"version": 4
+}

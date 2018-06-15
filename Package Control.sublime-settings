@@ -10,6 +10,10 @@
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
+		"Indent XML",
+		"MarkdownPreview",
+		"Package Control",
+		"phpfmt",
 		"ProjectManager",
 		"SideBarEnhancements",
 		"Theme - Flatland"
