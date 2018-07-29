@@ -5,17 +5,21 @@
 	],
 	"installed_packages":
 	[
-		"Alignment",
 		"BracketHighlighter",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
+		"HTML-CSS-JS Prettify",
 		"Indent XML",
 		"MarkdownPreview",
 		"Package Control",
+		"PHP Companion",
 		"phpfmt",
 		"ProjectManager",
+		"Sass",
 		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
 		"Theme - Flatland"
 	]
 }

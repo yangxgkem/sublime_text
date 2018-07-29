@@ -1,0 +1,10 @@
+// SublimeLinter Settings - User
+{
+    "paths": {
+        "linux": [],
+        "osx": [],
+        "windows": [
+            "C:\\Program Files\\php-7.1.18-nts-Win32-VC14-x64"
+        ]
+    },
+}

@@ -1,5 +1,6 @@
 [
 	{ "keys": ["ctrl+f3"], "command": "find_next" },
     { "keys": ["f3"], "command": "find_under" },
-    { "keys": ["alt+m"], "command": "markdown_preview", "args": { "target": "browser"} }
+    { "keys": ["alt+m"], "command": "markdown_preview", "args": { "target": "browser"} },
+    { "keys": ["f5"], "command": "find_use" }
 ]
